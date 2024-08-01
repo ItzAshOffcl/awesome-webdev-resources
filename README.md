@@ -519,7 +519,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Ionicons](https://ionic.io/ionicons) | Beautifully crafted open-source icons for web and mobile. |
 | [Boxicons](https://boxicons.com) | Customizable vector icons for web and app development. |
 | [Phosphor Icons](https://phosphoricons.com) | Minimalist, clean, and customizable icon library. |
-| [Material Icons](https://material.io/resources/icons/) | Google's Material Design icons for easy integration. |
 | [Flaticon](https://flaticon.com) | Largest database of free vector icons. |
 | [IconBuddy](https://iconbuddy.com/) | Diverse selection of customizable icons and icon packs. |
 | [MingCute](https://www.mingcute.com/) | Variety of cute and stylish SVG icons. |
