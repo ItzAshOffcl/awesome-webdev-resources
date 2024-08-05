@@ -310,6 +310,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Branition Colors](https://branition.com/colors) | A collection of color palettes inspired by brands. |
 | [Colourco.de](http://colourco.de) | A tool for creating and sharing color palettes. |
 | [Flat UI Color Picker](http://www.flatuicolorpicker.com/) | A tool for finding flat UI colors. |
+| [Conic Style](https://www.conic.style/) | A tool for creating and visualizing conic gradients for your web projects. |
 
 ### Color Tools
 
@@ -410,6 +411,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Godly](https://godly.website) | Curated gallery of landing page designs for inspiration. |
 | [Landings.dev](https://landings.dev/) | Collection of landing pages for inspiration and learning. |
 | [Landingfolio](https://www.landingfolio.com/) | Curated collection of landing pages for design inspiration. |
+| [Landingly](https://landingly.co/) | The ultimate inspiration source collections for landing pages. |
 | [Land Book](https://land-book.com/) | Gallery of the best landing page designs by type and industry. |
 | [Page Collective](https://pagecollective.com/) | Curated collection of website designs and templates. |
 | [Httpster](https://httpster.net) | Showcase of web designs and trends. |
