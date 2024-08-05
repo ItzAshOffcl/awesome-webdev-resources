@@ -5,7 +5,7 @@ This repository curates a comprehensive list of useful websites and resources ta
 
 If you like this repo, make sure to ⭐ it. 
 
-Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
+Please read [`contributing guidelines`](https://github.com/ItzAshOffcl/awesome-webdev-resources/blob/main/contributing.md) before submitting new resources.
 
 Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> 
 
