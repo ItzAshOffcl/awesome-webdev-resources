@@ -276,6 +276,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 # Colors
 
 ### Color Palettes
+
 | Website | Description |
 |---------|-------------|
 | [Coolors](https://coolors.co/) | A color scheme generator that helps you create beautiful palettes. |
@@ -311,6 +312,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Flat UI Color Picker](http://www.flatuicolorpicker.com/) | A tool for finding flat UI colors. |
 
 ### Color Tools
+
 | Website | Description |
 |---------|-------------|
 | [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) | For evaluating and ensuring adequate color contrast in web design to improve accessibility. |
@@ -583,6 +585,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
 # Illustrations
+
 | Website | Description |
 |---------|-------------|
 | [Blush](https://blush.design/) | Create custom illustrations from curated collections. |
@@ -707,7 +710,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 ### Color Libraries
 
 | Library | Description |
-|:---|:---|
+|---------|-------------|
 | [Chroma.js](https://gka.github.io/chroma.js/) | A versatile JavaScript library for color conversions and manipulation. |
 | [TinyColor](https://github.com/bgrins/TinyColor) | A small, fast JavaScript library for color manipulation and conversion. |
 | [Color.js](https://github.com/Qix-/color) | A color conversion and manipulation library for JavaScript. |
