@@ -1,0 +1,5 @@
+# Jekyll config for Github Pages
+
+title: Awesome WebDev Resources
+description: A curated list of useful websites and resources for web developers!
+remote_theme: ItzAshOffcl/cayman-minimal-theme
