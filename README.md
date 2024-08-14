@@ -499,6 +499,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [InfinityFree](https://infinityfree.net/) | Fully featured free website hosting with PHP, MySQL and no ads. |
 | [000webhost](https://www.000webhost.com/) | Zero cost website hosting with PHP, MySQL, Cpanel & no ads. |
 | [Cloudflare Pages](https://pages.cloudflare.com/) | JAMstack platform for deploying websites with free unlimited bandwidth. |
+| [ByetHost](https://byet.host/) | Provides Free & Premium hosting service with no ads including PHP, MySQL, FTP & more. |
 
 ### Paid Hosting
 
@@ -572,6 +573,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Flowbite Icons](https://flowbite.com/icons/) | Icons for use with the Flowbite UI library. |
 | [CSS Icon](https://cssicon.space/#/) | Collection of CSS-based icons for web design. |
 | [Icônes](https://icones.js.org/) | Versatile collection of free and customizable icons. |
+| [Iconduck](https://iconduck.com/) | A free resource offering open-source icons and illustrations. |
 
 ### Favicons
 
