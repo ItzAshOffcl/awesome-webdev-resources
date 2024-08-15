@@ -98,6 +98,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 |---------|-------------|
 | [RapidAPI](https://rapidapi.com) | Discover and connect to thousands of APIs across various categories with ease. |
 | [APIs List](https://apislist.com/) | Find a comprehensive directory of free APIs for different categories and uses. |
+| [Free Public APIs](https://www.freepublicapis.com/) | A Collection of free public APIs with daily consistency and monitoring checks. |
 | [Public APIs](https://publicapis.dev/) | Explore a collection of public APIs for diverse purposes and services. |
 | [APIs.guru](https://apis.guru/) | Access a repository of machine-readable API definitions for various APIs. |
 | [Any-API](https://any-api.com/) | Browse a database of public APIs for integration with various applications and services. |
