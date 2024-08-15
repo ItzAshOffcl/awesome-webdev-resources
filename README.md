@@ -434,6 +434,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Free Formatter](https://www.freeformatter.com/) | Collection of free online formatting tools. |
 | [OverAPI Developer Tools](https://overapi.com/developer-tools) | Aggregated collection of useful developer tools. |
 | [OnlineTools](https://onlinetools.com/) | Various online tools for web developers and designers. |
+| [Node.js (V8) --inspector Manager](https://nim.june07.com/) | Dev Tools UX Diabeetus |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
