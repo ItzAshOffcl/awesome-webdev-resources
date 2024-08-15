@@ -41,6 +41,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
     - [Free Hosting](#free-hosting)
     - [Paid Hosting](#paid-hosting)
 - [Icons](#icons)
+    - [Favicons](#favicons)
 - [Illustrations](#illustrations)
 - [Images](#images)
     - [Image Tools](#image-tools)
