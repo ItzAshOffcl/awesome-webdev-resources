@@ -421,6 +421,14 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [One Page Love](https://onepagelove.com) | Collection of one-page website designs. |
 | [Behance](https://www.behance.net) | Online portfolio platform for creative work. |
 | [Codrops](https://tympanus.net/codrops) | Collection of design tutorials and web design inspiration. |
+| [Minimal Gallery](https://minimal.gallery/) | A curated collection of beautiful & functional websites for design inspiration. |
+| [Refero Design](https://refero.design/) | Showcases a curated collection of exceptional websites and UI elements designs. |
+| [Stacksorted](https://stacksorted.com/buttons) | A collection of beautifully designed UI elements for web projects. |
+| [Seesaw](https://www.seesaw.website/) | A platform showcasing the latest web design trends and examples. |
+| [A Fresh Website](https://a-fresh.website/) | A curated gallery of out-of-this-world design inspiration from across the web. |
+| [Browsing Mode](https://browsingmode.com/) | Curates a collection of unique and creative websites for inspiration.  |
+| [Landing Love](https://www.landing.love/) | A showcase of beautifully designed animation websites. |
+| [Lapa Ninja](https://www.lapa.ninja/) | A curated gallery of the best landing pages for design inspiration. |
 
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
