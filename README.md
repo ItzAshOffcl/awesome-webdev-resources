@@ -1019,6 +1019,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Web3 Templates](https://web3templates.com) | Templates specifically designed for Web3 and blockchain projects. |
 | [Webflow Templates](https://webflow.com/templates) | Professional templates designed for Webflow. |
 | [HTML Template](https://htmltemplates.co/) | A collection of free HTML templates for various uses. |
+| [CodeStitch](https://codestitch.app/) | Hand-coded website section templates, all following the same design system, targetted towards small businesses |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
