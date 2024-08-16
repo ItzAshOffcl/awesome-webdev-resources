@@ -396,6 +396,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [CSS3 Generator](https://css3generator.com/) | Generate CSS3 code for various styles and effects. |
 | [CSS Generator PL](https://cssgenerator.pl/) | A tool for generating various CSS styles and effects. |
 | [LazyCode](https://lazycode.io/) | contains a collection of CSS generators for free |
+| [CSS Formalize](https://www.cssformalize.com/) | A CSS tool/framework for effortless customization of native HTML forms. |
 
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
