@@ -1029,6 +1029,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Webflow Templates](https://webflow.com/templates) | Professional templates designed for Webflow. |
 | [HTML Template](https://htmltemplates.co/) | A collection of free HTML templates for various uses. |
 | [CodeStitch](https://codestitch.app/) | Hand-coded website section templates, all following the same design system, targetted towards small businesses |
+| [WrapPixel](https://www.wrappixel.com/) | Provides free and premium developer friendly admin dashboard templates for web development. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -1043,6 +1044,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Shadcn UI](https://ui.shadcn.com/) | A collection of customizable UI components for React, styled with Tailwind CSS and built on Radix Primitives. |
 | [Tailgrids](https://tailgrids.com/) | A collection of Tailwind CSS components and templates. |
 | [Flowbite](https://flowbite.com/#components) | A library of open-source UI components built with Tailwind CSS. |
+| [Hover.dev](https://www.hover.dev/) | A collection of interactive, animated UI components for React & Tailwind. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
