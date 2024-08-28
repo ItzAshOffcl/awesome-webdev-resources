@@ -142,6 +142,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Fffuel](https://www.fffuel.co/) | A platform for discovering and sharing design resources, tools, and assets. |
 | [Animated Backgrounds](https://animatedbackgrounds.me/) | Offers animated backgrounds and effects to enhance visual appeal and user engagement. |
 | [Super Designer](https://superdesigner.co/) | A curated collection of design resources, tools, and inspiration for creating stunning digital experiences. |
+| [Ibelick BG](https://bg.ibelick.com/) | A collection of modern background designs crafted with Tailwind CSS and Vanilla CSS. |
 
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
@@ -170,6 +171,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Marko Denic Button Generator](https://markodenic.com/tools/buttons-generator/) | Create and customize buttons with a variety of styles and effects, and obtain the CSS code. |
 | [Best CSS Button Generator](https://www.bestcssbuttongenerator.com/) | Generate stylish CSS buttons with various customization options and download the CSS code. |
 | [CSS Buttons](https://cssbuttons.app/) | A collection of customizable CSS button designs and styles with easy-to-copy code. |
+| [Ibelick Buttons](https://buttons.ibelick.com/) | A collection of Tailwind CSS buttons designed to enhance your website's look. |
 
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
@@ -455,7 +457,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [SendGrid](https://sendgrid.com/) | Cloud-based SMTP provider for reliable email delivery. |
 | [Mailgun](https://www.mailgun.com/) | Email automation service for sending, receiving, and tracking emails. |
 | [SMTP2GO](https://www.smtp2go.com/) | Reliable SMTP service with advanced reporting and analytics. |
-| [Supabase](https://supabase.com/) | Serverless functions for sending emails, integrated with database and authentication services. |
+| [Supabase](https://supabase.com/docs/guides/functions/examples/send-emails) | Serverless functions for sending emails, integrated with database and authentication services. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -1044,6 +1046,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Tailgrids](https://tailgrids.com/) | A collection of Tailwind CSS components and templates. |
 | [Flowbite](https://flowbite.com/#components) | A library of open-source UI components built with Tailwind CSS. |
 | [Hover.dev](https://www.hover.dev/) | A collection of interactive, animated UI components for React & Tailwind. |
+| [Ibelick UI](https://ui.ibelick.com/) | A collection of free dark mode UI components built with React & Tailwind CSS. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
