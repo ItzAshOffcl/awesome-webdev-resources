@@ -333,8 +333,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 
 # CSS Filters
 
-### CSS Filters and Effects Tools
-
 | Website | Description |
 |---------|-------------|
 | [Just Code Today - Filters](https://justcode.today/filters/) | Collection of CSS filters and effects for websites. |
@@ -399,6 +397,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [CSS Generator PL](https://cssgenerator.pl/) | A tool for generating various CSS styles and effects. |
 | [LazyCode](https://lazycode.io/) | contains a collection of CSS generators for free |
 | [CSS Formalize](https://www.cssformalize.com/) | A CSS tool/framework for effortless customization of native HTML forms. |
+| [Clippy](https://bennettfeely.com/clippy/) | A tool for creating and customizing CSS clip-path shapes. |
 
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
