@@ -484,6 +484,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [MyFonts](https://www.myfonts.com/) | Extensive collection of commercial fonts. |
 | [IconPark](https://github.com/lvwzhen/iconpark) | Open-source icon library. |
 | [Brick](https://brick.im/) | A collection of unique and stylish fonts. |
+| [CDN Fonts](https://www.cdnfonts.com/) | A free platform to download or use fonts directly via CDN. |
 
 ### Font Pairing
 
@@ -664,6 +665,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Compress-Or-Die](https://compress-or-die.com/) | Offers powerful compression for JPEG, PNG, and GIF images with advanced settings. |
 | [JPEG Optimizer](https://www.jpeg-optimizer.com/) | Compresses and optimizes JPEG images for reduced file size and faster loading. |
 | [Image Compressor](https://imagecompressor.com/) | Provides easy-to-use tools for compressing and optimizing various image formats. |
+| [Squoosh](https://squoosh.app/) | A tool to compress and optimize images for web use. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -1047,6 +1049,8 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Flowbite](https://flowbite.com/#components) | A library of open-source UI components built with Tailwind CSS. |
 | [Hover.dev](https://www.hover.dev/) | A collection of interactive, animated UI components for React & Tailwind. |
 | [Ibelick UI](https://ui.ibelick.com/) | A collection of free dark mode UI components built with React & Tailwind CSS. |
+| [Origin UI](https://originui.com/) | A collection of beautiful UI components built with Tailwind CSS and Next.js. |  
+| [Kokonut](https://kokonut.dev/) | A collection of modern, interactive, customizable UI components built with Tailwind CSS and Next.js. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
