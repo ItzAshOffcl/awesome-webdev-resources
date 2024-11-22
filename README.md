@@ -37,6 +37,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 - [Email Service Providers](#email-service-providers)
 - [Fonts](#fonts)
     - [Font Pairing](#font-pairing)
+- [Form](#form)
 - [Hosting](#hosting)
     - [Free Hosting](#free-hosting)
     - [Paid Hosting](#paid-hosting)
@@ -495,6 +496,15 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [MixFont](https://www.mixfont.com/) | Visualize font pairings in real time. |
 | [Monotype Font Pairing](https://www.monotype.com/font-pairing#/playground?fontPair1=NimbusRomNo9T-Reg&fontPair2=Classic%20Grotesque) | Interactive font pairing tool. |
 
+
+<p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
+
+# Form
+
+| Website | Description |
+|---------|-------------|
+| [Formspree](https://formspree.io/) | A form backend service providing API, and email service for HTML & JavaScript forms. |
+| [Formie](https://formie.io/) | A form builder for easy form creation that also handles the backend for your forms.  |  
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
