@@ -1,6 +1,5 @@
 # Awesome WebDev Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
 This repository curates a comprehensive list of useful websites and resources tailored for web developers. 
 
 If you like this repo, make sure to ⭐ it. 
@@ -104,7 +103,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [APIs.guru](https://apis.guru/) | Access a repository of machine-readable API definitions for various APIs. |
 | [Any-API](https://any-api.com/) | Browse a database of public APIs for integration with various applications and services. |
 
-
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
 # Audio
@@ -145,7 +143,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Super Designer](https://superdesigner.co/) | A curated collection of design resources, tools, and inspiration for creating stunning digital experiences. |
 | [Ibelick BG](https://bg.ibelick.com/) | A collection of modern background designs crafted with Tailwind CSS and Vanilla CSS. |
 
-
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
 # Border Radius
@@ -157,7 +154,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Border Radius Online](https://borderradius.online/) | A comprehensive tool for generating and previewing CSS border-radius values with advanced options. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
-
 
 # Buttons
 
@@ -173,7 +169,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Best CSS Button Generator](https://www.bestcssbuttongenerator.com/) | Generate stylish CSS buttons with various customization options and download the CSS code. |
 | [CSS Buttons](https://cssbuttons.app/) | A collection of customizable CSS button designs and styles with easy-to-copy code. |
 | [Ibelick Buttons](https://buttons.ibelick.com/) | A collection of Tailwind CSS buttons designed to enhance your website's look. |
-
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -199,7 +194,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [CSS Checkbox Generator](http://csscheckbox.com/css-checkbox-generator.php) | A tool for generating and customizing CSS checkboxes with various styles and effects. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
-
 
 # Cheat Sheets
 
@@ -231,7 +225,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Regex Cheat Sheet](https://quickref.me/regex) | 
 | [Emmet Cheat Sheet](https://quickref.me/emmet) |
 
-
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
 # Code Editors
@@ -243,7 +236,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [CodeSandbox](https://codesandbox.io/) | An online code editor and prototyping tool for building web applications in a sandboxed environment. |
 | [StackBlitz](https://stackblitz.com/?starters=frontend) | Online IDE for web applications with starter templates and real-time collaboration features. |
 | [OneCompiler](https://onecompiler.com/) | Online compiler and IDE to compile and execute code snippets in various programming languages. |
-
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -274,7 +266,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Code Combat](https://codecombat.com) | Learn programming through engaging and interactive games and challenges. |
 | [CodeGym](https://codegym.cc) | Online Java programming course with coding challenges and games. |
 | [CodeAbbey](https://www.codeabbey.com) | Solve programming problems and challenges for various skill levels. |
-
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -328,9 +319,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [W3Schools Color Picker](https://w3schools.com/colors/colors_picker.asp) | An online color picker tool with various functionalities. |
 | [Color Thief](http://lokeshdhakar.com/projects/color-thief/) | A tool for extracting dominant colors from images. |
 
-
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
-
 
 # CSS Filters
 
@@ -356,7 +345,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 
 # CSS Games
 
-
 | Website | Description |
 |---------|-------------|
 | [CSS Battle](https://cssbattle.dev/) | A fun game where you write CSS code to replicate target images as closely as possible. |
@@ -368,7 +356,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure) | A fun way to master Flexbox through an adventure game. |
 | [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/) | A set of challenges using Flexbox properties to position and align elements in a medieval-themed game layout. |
 | [Flexbox Zombies](https://mastery.games/flexboxzombies/) | An interactive game where you learn Flexbox by battling zombies. |
-
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -399,7 +386,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [LazyCode](https://lazycode.io/) | contains a collection of CSS generators for free |
 | [CSS Formalize](https://www.cssformalize.com/) | A CSS tool/framework for effortless customization of native HTML forms. |
 | [Clippy](https://bennettfeely.com/clippy/) | A tool for creating and customizing CSS clip-path shapes. |
-
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -432,7 +418,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Landing Love](https://www.landing.love/) | A showcase of beautifully designed animation websites. |
 | [Lapa Ninja](https://www.lapa.ninja/) | A curated gallery of the best landing pages for design inspiration. |
 
-
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
 # Dev Tools
@@ -448,6 +433,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [OverAPI Developer Tools](https://overapi.com/developer-tools) | Aggregated collection of useful developer tools. |
 | [OnlineTools](https://onlinetools.com/) | Various online tools for web developers and designers. |
 | [Node.js (V8) --inspector Manager](https://nim.june07.com/) | A streamlined extension for V8 JavaScript debugging with pluggable DevTools and multi-session debugging management.|
+| [Site Check](https://frontenddogma.com/tools/check/) | Super-tool to test websites in 90+ web-based tools. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -495,7 +481,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Fontjoy](https://fontjoy.com/) | Generate font pairings based on style preferences. |
 | [MixFont](https://www.mixfont.com/) | Visualize font pairings in real time. |
 | [Monotype Font Pairing](https://www.monotype.com/font-pairing#/playground?fontPair1=NimbusRomNo9T-Reg&fontPair2=Classic%20Grotesque) | Interactive font pairing tool. |
-
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -609,7 +594,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Favicon.cc](https://www.favicon.cc/) | Create and edit favicons online. |
 | [Favicon Generator](https://www.favicon-generator.org/) | Tool to generate favicons for websites. |
 
-
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
 # Illustrations
@@ -640,7 +624,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Cocomaterial](https://cocomaterial.com/) | Modern, free illustrations. |
 | [Iradesign](https://iradesign.io) | Free and customizable illustrations. |
 | [ThemeIsle Illustrations](https://themeisle.com/illustrations) | Free illustrations for various uses. |
-
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -707,7 +690,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [theatre](https://theatrejs.com/) | An animation library for high-fidelity motion graphics and intricate movement. |
 | [snabbt.js](https://daniel-lundin.github.io/snabbt.js/) | Fast animations with JavaScript and CSS transforms. |
 
-
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
 ### Audio Libraries
@@ -753,7 +735,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Colord](https://github.com/omgovich/colord) | A tiny JavaScript library for high-performance color manipulation and conversion. |
 | [D3-Color](https://github.com/d3/d3-color) | Color spaces and color manipulation for D3.js. |
 
-
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
 ### Email Libraries
@@ -780,7 +761,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [react-dropzone](https://react-dropzone.js.org/) | React component for handling drag-and-drop file uploads. |
 | [ngx-file-drop](https://www.npmjs.com/package/ngx-file-drop) | Angular component for drag-and-drop file uploads. |
 | [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) | Angular file upload library with support for multiple files and progress tracking. |
-
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -913,7 +893,9 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Udemy](https://www.udemy.com) | Online courses on a variety of topics, including web development. |
 | [LinkedIn Learning](https://www.linkedin.com/learning/) | Professional courses on various tech and business topics. |
 | [Mozilla Developer Network (MDN)](https://developer.mozilla.org) | Comprehensive resources and documentation for web technologies. |
-
+| [Frontend Dogma](https://frontenddogma.com/) | News and tools for web developers. |
+| [Smashing Magazine](https://www.smashingmagazine.com/) | Magazine for web designers and developers. |
+| [WebGlossary.info](https://webglossary.info/) | 1,000s of web development and design terms and concepts. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -963,7 +945,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Lorem Ipsum Generator](https://loremipsum.io/) | Create customizable lorem ipsum text for any purpose. |
 | [Dummy Text Generator](https://www.dummytextgenerator.com/) | Create dummy text with various customization options. |
 
-
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
 # Responsiveness Checker
@@ -977,7 +958,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Am I Responsive?](https://ui.dev/amiresponsive) | A tool to check website responsiveness across multiple device viewports. |
 | [Screen Sizes](https://screensiz.es/monitor) | A resource for checking various screen sizes and resolutions. |
 | [Viewport Resizer](https://lab.maltewassermann.com/viewport-resizer/) | A bookmarklet for testing responsive design directly in your browser. |
-
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -1003,7 +983,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Aeternity Box Shadows](https://ui.aceternity.com/tools/box-shadows?utm_source=tailkits&utm_medium=referral&utm_campaign=tools) | A tool for generating customizable CSS box-shadow effects. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
-
 
 # SVGs
 
@@ -1115,10 +1094,9 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [WebPageTest](https://www.webpagetest.org) | A tool that allows you to run performance tests on your website from multiple locations worldwide. |
 | [SEOTester](https://seotest.me/) | A simple tool to check the SEO health and performance of your website. |
 
-
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
-# Youtube Channels
+# YouTube Channels
 
 | Website | 
 |---------|
@@ -1143,10 +1121,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/)             |
 | [Wes Bos](https://www.youtube.com/wesbos)                                     |
 
-
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
-
-
-
 
 <p align="center">Made with ❤  by Ash.</p>
