@@ -448,6 +448,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [OverAPI Developer Tools](https://overapi.com/developer-tools) | Aggregated collection of useful developer tools. |
 | [OnlineTools](https://onlinetools.com/) | Various online tools for web developers and designers. |
 | [Node.js (V8) --inspector Manager](https://nim.june07.com/) | A streamlined extension for V8 JavaScript debugging with pluggable DevTools and multi-session debugging management.|
+| [Site Check](https://frontenddogma.com/tools/check/) | Super-tool to test websites in 90+ web-based tools. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -913,6 +914,9 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Udemy](https://www.udemy.com) | Online courses on a variety of topics, including web development. |
 | [LinkedIn Learning](https://www.linkedin.com/learning/) | Professional courses on various tech and business topics. |
 | [Mozilla Developer Network (MDN)](https://developer.mozilla.org) | Comprehensive resources and documentation for web technologies. |
+| [Frontend Dogma](https://frontenddogma.com/) | News and tools for web developers. |
+| [Smashing Magazine](https://www.smashingmagazine.com/) | Magazine for web designers and developers. |
+| [WebGlossary.info](https://webglossary.info/) | 1,000s of web development and design terms and concepts. |
 
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
@@ -1118,7 +1122,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
-# Youtube Channels
+# YouTube Channels
 
 | Website | 
 |---------|
