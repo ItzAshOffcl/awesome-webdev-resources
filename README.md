@@ -676,7 +676,8 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [JPEG Optimizer](https://www.jpeg-optimizer.com/) | Compresses and optimizes JPEG images for reduced file size and faster loading. |
 | [Image Compressor](https://imagecompressor.com/) | Provides easy-to-use tools for compressing and optimizing various image formats. |
 | [Squoosh](https://squoosh.app/) | A tool to compress and optimize images for web use. |
-
+| [iLoveAVIF](https://iloveavif.com) | Free browser-based converter and compressor for AVIF, JPG, PNG, WebP, GIF, and SVG. 17 tools, no file uploads — all processing is client-side. Also offers a developer API for server-side conversions. |
+  
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
 # JS Libraries
