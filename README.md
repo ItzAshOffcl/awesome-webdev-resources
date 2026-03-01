@@ -1113,6 +1113,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Google PageSpeed Insights](https://pagespeed.web.dev/) | A tool to analyze and optimize the performance of your website. |
 | [GTmetrix](https://gtmetrix.com/) | Provides insights on your website’s speed and offers optimization recommendations. |
 | [WebPageTest](https://www.webpagetest.org) | A tool that allows you to run performance tests on your website from multiple locations worldwide. |
+| [PageGuard](https://pageguard.org) | Free website health scanner — checks Performance, SEO, ADA/WCAG Accessibility and Best Practices in 30 seconds with AI action plans. |
 | [SEOTester](https://seotest.me/) | A simple tool to check the SEO health and performance of your website. |
 
 
