@@ -448,6 +448,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [OverAPI Developer Tools](https://overapi.com/developer-tools) | Aggregated collection of useful developer tools. |
 | [OnlineTools](https://onlinetools.com/) | Various online tools for web developers and designers. |
 | [Node.js (V8) --inspector Manager](https://nim.june07.com/) | A streamlined extension for V8 JavaScript debugging with pluggable DevTools and multi-session debugging management.|
+| [BeginThings](https://beginthings.com/) | 96+ free browser-based tools for developers & freelancers — JSON formatter, regex tester, base64 encoder, image compressor, QR code maker, invoice generator & more. No login required. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
