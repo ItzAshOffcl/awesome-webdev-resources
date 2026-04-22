@@ -649,6 +649,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | Website | Description |
 |---------|-------------|
 | [Unsplash](https://unsplash.com) | High-quality, royalty-free images contributed by photographers worldwide. |
+| [tteg](https://tteg.kushalsm.com) | Search and save real Unsplash photos from a CLI or HTTP API without an API key. |
 | [Pixabay](https://pixabay.com) | A large collection of free images, videos, and music available for commercial use. |
 | [Pexels](https://pexels.com) | Free stock photos and videos with a simple search and download process. |
 | [Pxfuel](https://www.pxfuel.com) | Offers high-resolution free stock photos for personal and commercial use. |
