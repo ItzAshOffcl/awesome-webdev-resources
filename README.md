@@ -473,6 +473,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Befonts](https://befonts.com) | Free fonts for designers and developers. |
 | [Fontesk](https://fontesk.com) | Free fonts for personal and commercial use. |
 | [Fontshare](https://www.fontshare.com) | Free fonts service from ITF. |
+| [FontsWiki](https://fontswiki.com/) | Searchable font catalog with free alternatives, pairings, and fonts-in-use references. |
 | [Type Scale](https://type-scale.com) | Tool for generating modular type scales. |
 | [Adobe Fonts](https://fonts.adobe.com/) | Vast library of high-quality fonts. |
 | [FontMirror](https://www.fontmirror.com/) | Free fonts for download. |
