@@ -608,6 +608,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [XIcon Editor](https://www.xiconeditor.com/) | Online favicon editor and generator. |
 | [Favicon.cc](https://www.favicon.cc/) | Create and edit favicons online. |
 | [Favicon Generator](https://www.favicon-generator.org/) | Tool to generate favicons for websites. |
+| [TinyTools](https://tinytools-smoky.vercel.app/) | Free browser-based toolkit: favicon generator, color palette, OG images, SEO meta tags, AI background remover (local), and more — no signup. |
 
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
