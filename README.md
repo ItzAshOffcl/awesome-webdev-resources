@@ -3,7 +3,7 @@
 
 This repository curates a comprehensive list of useful websites and resources tailored for web developers. 
 
-If you like this repo, make sure to ‚≠ê it. 
+If you like this repo, make sure to ‚≠?it. 
 
 Please read [`contributing guidelines`](https://github.com/ItzAshOffcl/awesome-webdev-resources/blob/main/contributing.md) before submitting new resources.
 
@@ -447,6 +447,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [JSONing](https://jsoning.com/) | Collection of free online JSON tools. |
 | [OverAPI Developer Tools](https://overapi.com/developer-tools) | Aggregated collection of useful developer tools. |
 | [OnlineTools](https://onlinetools.com/) | Various online tools for web developers and designers. |
+| [Vaultool](https://vaultool.com/) | 30+ free browser-based tools for developers: JSON formatter, Base64 encoder, UUID generator, image converter, color picker, regex tester, and more. |
 | [Node.js (V8) --inspector Manager](https://nim.june07.com/) | A streamlined extension for V8 JavaScript debugging with pluggable DevTools and multi-session debugging management.|
 
 <p align="right"><a href="#table-of-contents">[ü°Ö back to top]</a></p>
@@ -1149,4 +1150,4 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 
 
 
-<p align="center">Made with ‚ù§  by Ash.</p>
+<p align="center">Made with ‚ù? by Ash.</p>
