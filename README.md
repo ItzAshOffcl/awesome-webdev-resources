@@ -676,6 +676,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [JPEG Optimizer](https://www.jpeg-optimizer.com/) | Compresses and optimizes JPEG images for reduced file size and faster loading. |
 | [Image Compressor](https://imagecompressor.com/) | Provides easy-to-use tools for compressing and optimizing various image formats. |
 | [Squoosh](https://squoosh.app/) | A tool to compress and optimize images for web use. |
+| [ImageDimensions](https://imagedimensions.com/) | Scan any URL for oversized images (natural vs rendered size) and convert PNG/JPG to WebP in your browser. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
