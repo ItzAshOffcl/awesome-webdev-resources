@@ -46,6 +46,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 - [Illustrations](#illustrations)
 - [Images](#images)
     - [Image Tools](#image-tools)
+- [FreePNGConvert](https://freepngconvert.com) - Free WebP to PNG converter. Browser-based, no uploads, privacy-focused.
 - [JS Libraries](#js-libraries)
     - [Animation Libraries](#animation-libraries)
     - [Audio Libraries](#audio-libraries)
