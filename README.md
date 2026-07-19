@@ -443,6 +443,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [BeautifyTools](https://beautifytools.com/) | Online tools to beautify and minify code. |
 | [Transform Tools](https://transform.tools/) | Tools for transforming code snippets. |
 | [Code Beautify](https://codebeautify.org/) | Online tools for code beautification and conversion. |
+| [Excel to Markdown](https://exceltomd.com/excel-to-markdown) | Converts XLSX, XLS, and CSV files into Markdown tables locally in the browser without signup or file uploads. |
 | [Free Formatter](https://www.freeformatter.com/) | Collection of free online formatting tools. |
 | [JSONing](https://jsoning.com/) | Collection of free online JSON tools. |
 | [OverAPI Developer Tools](https://overapi.com/developer-tools) | Aggregated collection of useful developer tools. |
