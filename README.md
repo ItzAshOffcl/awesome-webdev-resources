@@ -399,6 +399,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [LazyCode](https://lazycode.io/) | contains a collection of CSS generators for free |
 | [CSS Formalize](https://www.cssformalize.com/) | A CSS tool/framework for effortless customization of native HTML forms. |
 | [Clippy](https://bennettfeely.com/clippy/) | A tool for creating and customizing CSS clip-path shapes. |
+| [HTML Table Generator](https://nutilz.com/html-table-generator) | Build HTML tables visually with a live preview, then export as clean HTML, Markdown, or CSV — free, no sign-up. |
 
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
