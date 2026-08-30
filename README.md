@@ -448,6 +448,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [OverAPI Developer Tools](https://overapi.com/developer-tools) | Aggregated collection of useful developer tools. |
 | [OnlineTools](https://onlinetools.com/) | Various online tools for web developers and designers. |
 | [Node.js (V8) --inspector Manager](https://nim.june07.com/) | A streamlined extension for V8 JavaScript debugging with pluggable DevTools and multi-session debugging management.|
+| [Agent QA](https://github.com/vostride/agent-qa) | CLI and MCP tool for natural-language web application testing, with execution memory and adaptation to UI changes. Source-available under FSL-1.1-ALv2; each release converts to Apache-2.0 after two years. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
