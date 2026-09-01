@@ -254,6 +254,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [DevChallenges](https://devchallenges.io) | Coding challenges to improve and showcase your skills. |
 | [Frontend Mentor](https://frontendmentor.io) | Real-world front-end challenges to improve coding skills. |
 | [Frontend Practice](https://www.frontendpractice.com) | Practice building projects with real-world front-end challenges. |
+| [FrontendAtlas Machine Coding](https://frontendatlas.com/machine-coding) | Practice frontend UI and JavaScript machine-coding interview challenges with 500+ prompts and guided study plans. |
 | [CSS Challenges](https://css-challenges.com) | Practice CSS through a series of design challenges. |
 | [100 Days CSS](https://100dayscss.com) | Learn CSS by completing one challenge every day for 100 days. |
 | [JS Challenger](https://www.jschallenger.com) | Practice JavaScript coding challenges and improve your skills. |
