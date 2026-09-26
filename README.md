@@ -447,6 +447,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [JSONing](https://jsoning.com/) | Collection of free online JSON tools. |
 | [OverAPI Developer Tools](https://overapi.com/developer-tools) | Aggregated collection of useful developer tools. |
 | [OnlineTools](https://onlinetools.com/) | Various online tools for web developers and designers. |
+| [Dev Tools](https://tools.bubble.ro/) | 600+ free developer tools (formatters, encoders, JWT, regex, PDF, network) that run in the browser. |
 | [Node.js (V8) --inspector Manager](https://nim.june07.com/) | A streamlined extension for V8 JavaScript debugging with pluggable DevTools and multi-session debugging management.|
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
