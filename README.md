@@ -535,6 +535,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Render](https://render.com) | Unified cloud to build and run all your apps and websites with auto deploys from Git. |
 | [Stormkit](https://stormkit.io) | Manage frontend infrastructure integrating with your git flow. |
 | [Supabase](https://supabase.com) | Open source Firebase alternative with a Postgres Database. |
+| [Nhost](https://nhost.io) | Managed backend for agentic apps with Postgres, GraphQL, auth, storage and an MCP server. |
 | [Hostinger](https://www.hostinger.com) | Affordable web hosting with 24/7 live support and a user-friendly interface. |
 | [DreamHost](https://www.dreamhost.com) | Reliable web hosting with 100% uptime guarantee and solid support. |
 
