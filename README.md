@@ -448,6 +448,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [OverAPI Developer Tools](https://overapi.com/developer-tools) | Aggregated collection of useful developer tools. |
 | [OnlineTools](https://onlinetools.com/) | Various online tools for web developers and designers. |
 | [Node.js (V8) --inspector Manager](https://nim.june07.com/) | A streamlined extension for V8 JavaScript debugging with pluggable DevTools and multi-session debugging management.|
+| [CurlShot](https://curlshot.com/) | Screenshot API and free online tool that turns any URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video. |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
