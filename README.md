@@ -103,6 +103,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Public APIs](https://publicapis.dev/) | Explore a collection of public APIs for diverse purposes and services. |
 | [APIs.guru](https://apis.guru/) | Access a repository of machine-readable API definitions for various APIs. |
 | [Any-API](https://any-api.com/) | Browse a database of public APIs for integration with various applications and services. |
+| [Bucketlist.nl Dream of the Day API](https://bucketlist.nl/samenwerken#droom-van-de-dag) | Free, keyless daily experience JSON for inspiration cards, with a canonical source link, CORS, and documented scope and language options (Dutch by default). |
 
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
