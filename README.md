@@ -494,6 +494,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Fontpair](https://www.fontpair.co/) | Discover and pair complementary fonts. |
 | [Fontjoy](https://fontjoy.com/) | Generate font pairings based on style preferences. |
 | [MixFont](https://www.mixfont.com/) | Visualize font pairings in real time. |
+| [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) | Free script-header and body-font pairing guidance; paid fonts and workbooks are separate. |
 | [Monotype Font Pairing](https://www.monotype.com/font-pairing#/playground?fontPair1=NimbusRomNo9T-Reg&fontPair2=Classic%20Grotesque) | Interactive font pairing tool. |
 
 
