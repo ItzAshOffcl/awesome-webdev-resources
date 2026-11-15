@@ -103,6 +103,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Public APIs](https://publicapis.dev/) | Explore a collection of public APIs for diverse purposes and services. |
 | [APIs.guru](https://apis.guru/) | Access a repository of machine-readable API definitions for various APIs. |
 | [Any-API](https://any-api.com/) | Browse a database of public APIs for integration with various applications and services. |
+| [No Stairs Please MCP](https://nostairsplease.com/mcp) | Remote MCP endpoint for searching small live-music venues, booking contacts, and stage accessibility across all 50 US states. |
 
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
